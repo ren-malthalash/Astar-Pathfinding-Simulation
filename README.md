@@ -1,9 +1,9 @@
 # A* Pathfinding Simulator
 
-Uses the following Heuristics:
-Eucledean
-Diagonal
-Manhattan
+Developed using Unreal Engine 5\
+Download [here](https://drive.google.com/file/d/1iFW7fiUZ2h-jfAs7l8MAbfOjm9m4I4iL/view?usp=sharing)\
 
-Developed with Unreal Engine 5
-[Download Simulator](https://drive.google.com/file/d/1iFW7fiUZ2h-jfAs7l8MAbfOjm9m4I4iL/view?usp=sharing)
+The simulator may use one of the following Heuristics:\
+1. Eucledean
+2. Diagonal
+3. Manhattan
